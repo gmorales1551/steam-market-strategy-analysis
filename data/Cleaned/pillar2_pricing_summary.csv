@@ -1,0 +1,5 @@
+pricing_tier,avg_med_playtime,game_count,total_positive_reviews,total_negative_reviews,positive_satisfaction_pct
+1. Free,429.59,2560,7847432,1613219,82.95
+2. Budget ($0.01 - $10),69.17,19593,6904426,1102141,86.23
+3. Mid-Tier ($10.01 - $30),243.28,4599,10631927,2338388,81.97
+4. AAA ($30+),1178.15,323,1706337,659812,72.11

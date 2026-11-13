@@ -1,0 +1,741 @@
+game_count,genres,positive_demand,total_estimated_lower_bound_owners,avg_genre_price
+1852,Action;Indie,768329,64560000,5.02
+1482,Casual;Indie,151100,20530000,2.58
+1229,Action;Adventure;Indie,656555,54000000,5.87
+1170,Adventure;Indie,666847,48220000,5.85
+1004,Action;Casual;Indie,166902,20980000,3.35
+843,Action,3044378,333430000,9.98
+801,Adventure;Casual;Indie,199260,23800000,4.49
+759,Indie,146672,13840000,3.97
+560,Casual,31384,5760000,4.68
+535,Adventure,225972,20990000,8.73
+506,Adventure;Casual,42334,7140000,6.75
+485,Strategy,655973,81530000,10.41
+475,Action;Adventure;Casual;Indie,135676,13270000,3.78
+449,Adventure;Indie;RPG,170752,11820000,5.07
+445,Casual;Indie;Strategy,50872,8420000,3.81
+377,Casual;Indie;Simulation,101817,6960000,3.92
+364,Indie;Strategy,129017,16470000,7.13
+363,Action;Adventure,2017871,116690000,12.25
+330,Action;Adventure;Indie;RPG,544699,27690000,7.38
+328,Simulation,141496,15870000,10.87
+280,Action;Indie;Early Access,83591,3280000,7.45
+270,RPG,938839,59360000,11.97
+231,Indie;Simulation;Strategy,272013,18090000,9.54
+220,Action;Indie;Strategy,243643,19010000,6.7
+218,Indie;Simulation,733870,29310000,7.21
+212,Indie;RPG,144633,8130000,5.35
+199,Action;Indie;RPG,180028,13590000,6.74
+183,Casual;Indie;Simulation;Strategy,68882,4940000,4.69
+175,Simulation;Strategy,355385,30060000,14.59
+147,Adventure;Casual;Indie;RPG,14326,1500000,4.78
+146,Adventure;Casual;Indie;Simulation,12248,760000,5.74
+139,Indie;RPG;Strategy,119626,7620000,8.43
+132,Action;Adventure;Indie;Early Access,23914,1520000,7.25
+128,Casual;Simulation,25383,2370000,5.49
+124,Adventure;Indie;Simulation,203208,11420000,5.74
+120,Action;Casual;Indie;Strategy,24245,6020000,4.33
+116,Action;Indie;Simulation,57724,5320000,5.29
+111,Action;Casual,8420,1570000,4.53
+105,Action;Free to Play;Indie,274019,37600000,0.0
+100,Casual;Strategy,10387,3010000,6.35
+98,Action;RPG,1031195,50590000,15.16
+94,Action;Casual;Indie;Early Access,4966,600000,5.46
+94,Action;Casual;Indie;Simulation,14302,2080000,3.82
+89,Casual;Free to Play;Indie,202977,10090000,0.01
+88,Action;Adventure;RPG,316621,18720000,13.09
+88,Adventure;Indie;RPG;Strategy,69686,7090000,8.26
+87,RPG;Strategy,69272,8480000,11.47
+86,Racing,70333,9870000,10.49
+85,Action;Adventure;Indie;Simulation,168380,6780000,6.25
+81,Indie;Simulation;Strategy;Early Access,26564,1420000,10.45
+77,Adventure;Indie;Strategy,24997,2830000,5.36
+76,Action;Strategy,75380,7540000,8.41
+71,Action;Indie;Racing,20128,1990000,6.18
+70,Adventure;RPG,38201,4100000,9.28
+65,Action;Simulation,20488,3480000,9.93
+63,Sports,9593,1410000,13.8
+63,Action;Indie;Sports,24307,2350000,7.49
+60,Indie;Strategy;Early Access,3360,110000,7.2
+60,Casual;Indie;RPG,6941,900000,3.41
+60,Action;Casual;Indie;Sports,2987,190000,5.57
+59,Adventure;Free to Play;Indie,31100,4090000,0.0
+59,Casual;Indie;Racing,9549,960000,3.03
+59,Action;Adventure;Casual,30888,1450000,4.95
+58,Racing;Simulation;Sports,54155,4260000,18.4
+58,Action;Adventure;Indie;Strategy,17171,1930000,6.15
+57,Casual;Indie;Simulation;Early Access,8091,240000,7.69
+57,Simulation;Sports,25199,3670000,16.22
+57,Violent;Gore;Action;Indie,5032,670000,4.74
+56,Indie;Early Access,12650,440000,5.9
+56,Indie;Simulation;Early Access,50865,2770000,8.52
+55,Adventure;Indie;Early Access,24420,1070000,9.08
+55,Adventure;Casual;Indie;Strategy,3371,550000,3.63
+50,Casual;Indie;Early Access,509,60000,4.02
+49,Action;Casual;Free to Play;Indie,28239,4310000,0.0
+49,Adventure;Casual;Free to Play;Indie,56338,3720000,0.05
+48,Action;Early Access,30756,1560000,8.26
+47,Action;Indie;RPG;Early Access,7970,770000,8.0
+47,Action;Indie;Strategy;Early Access,25538,790000,8.88
+45,Casual;Indie;Sports,1997,950000,3.58
+45,Casual;Simulation;Strategy,2721,490000,6.68
+44,Utilities,14160,2610000,5.46
+44,Free to Play;Indie,31901,3560000,0.0
+43,Adventure;Casual;Simulation,7375,230000,9.37
+42,Action;Indie;Simulation;Early Access,15875,730000,10.39
+41,Indie;Simulation;Sports,10961,860000,8.64
+40,Action;Racing,10128,1510000,6.87
+40,Indie;Racing,2600,1040000,5.33
+40,Action;Free to Play,3757019,131080000,0.0
+39,Violent;Action;Indie,2209,230000,4.65
+38,Action;Indie;RPG;Strategy,27704,3130000,9.49
+38,Indie;RPG;Simulation;Strategy,42676,1660000,8.88
+38,Action;Casual;Indie;Racing,2504,660000,3.48
+37,Casual;Indie;RPG;Simulation,34335,1860000,4.02
+36,Action;Indie;Simulation;Strategy,81451,4050000,7.34
+36,Action;Adventure;Simulation,2320,340000,6.12
+34,Free to Play;Indie;Strategy,12687,2540000,0.02
+34,Simulation;Early Access,7285,320000,10.85
+32,Action;Casual;Simulation,1259,50000,5.75
+32,Free to Play,14904,3370000,0.0
+32,Action;Adventure;Free to Play;Indie,31735,4840000,0.0
+31,Free to Play;Massively Multiplayer;RPG,49430,14480000,0.0
+30,Indie;Sports,3920,470000,6.21
+30,Casual;Free to Play;Indie;Simulation,18258,1890000,0.0
+30,Adventure;Simulation,3179,370000,8.07
+30,Indie;Simulation;Sports;Strategy,4746,330000,14.34
+29,Action;Simulation;Strategy,148698,8420000,20.04
+28,Casual;Indie;Simulation;Sports,1297,60000,7.27
+28,Indie;RPG;Strategy;Early Access,1831,120000,9.2
+28,Casual;Free to Play,7614,2250000,0.0
+27,Casual;Free to Play;Simulation,3857,930000,0.0
+27,Casual;Free to Play;Indie;Strategy,8536,1820000,0.0
+26,Adventure;RPG;Strategy,53086,2890000,11.14
+26,Adventure;Casual;Simulation;Strategy,447,0,3.25
+25,Indie;RPG;Simulation,128867,2660000,6.52
+25,Adventure;Indie;RPG;Early Access,2268,700000,7.45
+25,Adventure;Casual;Indie;Early Access,1841,310000,5.77
+25,Casual;Simulation;Sports,2745,120000,7.97
+24,Action;Free to Play;Indie;Early Access,15272,1800000,0.0
+24,Adventure;Free to Play,11303,1450000,0.0
+24,Sexual Content;Nudity;Casual;Indie,50732,2660000,5.84
+24,Action;Adventure;Strategy,23524,3170000,7.1
+24,Free to Play;Strategy,38958,6000000,0.0
+24,Violent;Action;Adventure;Indie,5543,370000,3.88
+23,Adventure;Free to Play;Indie;RPG,11316,1470000,0.07
+23,Casual;Indie;RPG;Strategy,3656,540000,4.97
+23,Indie;Casual,5415,1620000,4.69
+22,Adventure;Casual;Strategy,7863,1100000,6.22
+22,Action;Indie;Simulation;Sports,1533,90000,6.46
+22,Adventure;Strategy,17043,1320000,8.7
+21,Strategy;Early Access,11941,520000,8.42
+21,Free to Play;Simulation,19121,5000000,0.0
+21,Adventure;Indie;RPG;Simulation,12963,1060000,6.69
+21,Casual;Indie;Strategy;Early Access,394,70000,5.2
+21,Casual;Sports,759,160000,5.45
+21,Indie;Racing;Simulation;Sports,17264,670000,4.43
+21,Violent;Gore;Action,1673,500000,7.5
+21,Action;Casual;Indie;RPG,3337,200000,3.53
+21,Adventure;Indie;Simulation;Strategy,49205,1220000,8.79
+20,Action;Indie;Racing;Sports,244243,5160000,11.23
+20,Action;Adventure;Early Access,771,20000,9.29
+19,Action;Adventure;RPG;Early Access,4446,160000,9.73
+19,Violent;Action,4855,220000,7.83
+19,Racing;Sports,27711,4490000,13.04
+19,Casual;Early Access,249,200000,5.49
+19,Action;Adventure;Indie;Racing,3681,520000,5.53
+18,Violent;Gore;Adventure;Indie,2698,220000,4.48
+18,Indie;RPG;Early Access,305,0,6.76
+18,Free to Play;Indie;Simulation,22252,3290000,0.0
+18,Adventure;Casual;Free to Play,9618,700000,0.0
+18,Action;Indie;Racing;Early Access,713,20000,6.0
+17,Action;Sports,23436,1020000,9.68
+17,Action;Free to Play;Massively Multiplayer,115477,24890000,0.0
+16,Violent;Gore;Indie,507,0,3.94
+16,Action;Indie;Sports;Early Access,955,0,8.45
+15,Violent;Adventure;Indie,704,240000,6.02
+15,Casual;Indie;Sports;Early Access,16237,1000000,4.79
+14,Adventure;Indie;Strategy;Early Access,770,20000,6.57
+14,Action;Casual;Strategy,333,20000,4.62
+14,Racing;Simulation,20055,1210000,7.6
+14,Action;Indie;Massively Multiplayer,3901,590000,5.03
+14,Casual;Simulation;Early Access,108,0,4.25
+14,RPG;Simulation;Strategy,44688,4700000,10.62
+14,Indie;Racing;Sports,608,90000,6.17
+14,Action;Indie;Massively Multiplayer;Early Access,1935,90000,6.3
+13,Action;Free to Play;Massively Multiplayer;RPG,27775,8170000,0.0
+13,Violent;Action;Adventure,10404,820000,15.94
+13,Simulation;Sports;Strategy,433,40000,11.16
+13,Violent;Action;Indie;Early Access,83,0,8.66
+13,Gore;Action;Adventure;Indie,2175,900000,4.84
+13,Simulation;Strategy;Early Access,2647,170000,11.07
+12,Action;Simulation;Early Access,2081,70000,9.31
+12,Action;Adventure;Casual;Simulation,1238,20000,4.89
+12,Free to Play;Indie;Massively Multiplayer;Strategy,4952,1420000,0.0
+12,Adventure;Casual;RPG,3999,600000,3.71
+12,Free to Play;Massively Multiplayer;Strategy,7992,2070000,0.0
+12,Action;Casual;Simulation;Strategy,1313,300000,7.88
+12,RPG;Early Access,766,70000,11.1
+12,Casual;RPG,2159,470000,5.14
+11,Gore;Adventure;Indie,430,250000,3.08
+11,Sports;Early Access,139,0,4.36
+11,Adventure;Casual;Indie;Racing,134,20000,2.42
+11,Action;RPG;Strategy,14074,1320000,15.57
+11,Casual;Racing,1621,320000,4.14
+11,Violent;Action;Casual;Indie,122,0,3.65
+11,Action;Free to Play;Early Access,91847,11650000,0.0
+11,Violent;Gore;Action;Adventure,247,50000,6.96
+11,Action;Casual;Sports,249,0,7.15
+11,Free to Play;Indie;RPG,767,180000,0.0
+11,Action;Free to Play;Indie;Massively Multiplayer,84396,14220000,0.0
+11,Indie;Racing;Simulation,2143,100000,12.78
+10,Action;Simulation;Sports,114,0,2.99
+10,Adventure;Early Access,2922,50000,6.09
+10,Action;Adventure;Casual;RPG,5075,220000,9.27
+10,Adventure;Simulation;Strategy,10233,1020000,5.21
+10,Adventure;Indie;Simulation;Early Access,12610,540000,10.66
+10,Sexual Content;Nudity;Adventure;Casual,1264,120000,8.96
+10,RPG;Simulation,1058,70000,10.31
+10,Action;Casual;Indie;Massively Multiplayer,283,20000,4.49
+10,Casual;Indie;Racing;Sports,189,0,3.33
+10,Action;Indie;Racing;Simulation,583,20000,7.22
+10,Casual;Indie;Racing;Simulation,235,20000,1.81
+9,Early Access,391,100000,7.22
+9,Casual;RPG;Simulation,1670,200000,6.21
+9,Indie;RPG;Simulation;Early Access,18341,500000,9.87
+9,Action;Casual;Free to Play,1850,760000,0.44
+9,Casual;Indie;Sports;Strategy,578,150000,3.18
+9,Casual;Simulation;Sports;Strategy,143,80000,10.46
+9,Violent;Adventure,712,20000,10.41
+9,Indie;Racing;Early Access,281,20000,5.3
+8,Casual;Free to Play;Indie;RPG,1266,180000,0.0
+8,Free to Play;Massively Multiplayer;RPG;Strategy,2820,820000,0.0
+8,Action;Adventure;RPG;Strategy,609,20000,6.99
+8,Audio Production;Utilities,548,40000,9.76
+8,Action;Casual;Simulation;Sports,513,50000,6.9
+8,Action;Strategy;Early Access,125,0,7.49
+8,Action;Adventure;Racing,15701,1020000,8.44
+8,Free to Play;Indie;RPG;Strategy,4339,990000,0.0
+8,Education,126,20000,2.03
+8,Violent;Indie,71,0,3.08
+8,Adventure;Free to Play;Massively Multiplayer;RPG,27036,7470000,0.0
+8,Action;Racing;Simulation;Sports,1851,290000,6.55
+8,Action;Free to Play;Strategy,871504,101560000,0.0
+8,Sexual Content;Casual;Indie,1319,20000,3.95
+8,Violent;Action;Casual,3595,200000,4.11
+8,Strategy;Casual,3333,310000,6.18
+8,Action;Free to Play;Indie;Strategy,39827,5220000,0.0
+7,Action;Adventure;Casual;Strategy,1981,400000,4.73
+7,Free to Play;RPG,4116,1250000,0.0
+7,Free to Play;Indie;Simulation;Strategy,1215,260000,0.0
+7,Violent;Action;Indie;Simulation,80,0,4.85
+7,Adventure;Simulation;Early Access,74,0,5.05
+7,Action;Casual;Racing,378,0,7.56
+7,Violent;Action;Strategy,7768,2540000,4.31
+7,Simulation;Sports;Early Access,178,0,14.8
+7,Sports;Strategy,4967,820000,9.85
+7,Indie;Racing;Simulation;Early Access,13599,250000,8.48
+7,Adventure;Free to Play;Simulation,622,270000,0.57
+7,Casual;Free to Play;Strategy,832,250000,0.0
+7,Animation & Modeling;Design & Illustration;Utilities,63964,5100000,11.52
+7,Indie;Massively Multiplayer;RPG,6448,180000,10.64
+7,Action;RPG;Early Access,1077,20000,7.55
+7,Strategy;RPG;Indie,1118,500000,1.57
+7,Action;Massively Multiplayer;Early Access,4377,250000,7.61
+7,Casual;Free to Play;Indie;Early Access,1818,570000,0.0
+7,Free to Play;Indie;Strategy;Early Access,1591,330000,0.0
+7,Free to Play;Strategy;Early Access,2359,490000,0.0
+6,Action;Racing;Simulation,54,0,3.16
+6,Action;Racing;Sports,3045,420000,8.77
+6,Racing;Early Access,159,20000,2.86
+6,Utilities;Early Access,832,120000,2.46
+6,Indie;Simulation;Sports;Early Access,103,0,12.42
+6,RPG;Indie,6491,1050000,4.66
+6,Adventure;Casual;RPG;Simulation,766,20000,11.68
+6,Gore;Action;Indie,195,0,2.59
+6,Action;Adventure;Massively Multiplayer,615761,52100000,15.66
+6,Indie;Sports;Strategy,386,70000,7.97
+6,Action;Massively Multiplayer,519,140000,5.78
+6,Free to Play;RPG;Strategy,5865,1240000,0.0
+6,Violent;Gore;Adventure,681,20000,12.69
+6,Free to Play;Indie;Massively Multiplayer;RPG,2502,810000,0.0
+6,Action;RPG;Simulation,6751,770000,10.16
+5,Design & Illustration,833,100000,12.0
+5,Adventure;Casual;Indie;Sports,72,0,2.31
+5,Design & Illustration;Utilities,270,100000,10.99
+5,Casual;Free to Play;RPG,6439,820000,0.0
+5,Indie;Massively Multiplayer;RPG;Early Access,1508,70000,15.51
+5,Casual;Indie;Massively Multiplayer;Strategy,628,90000,2.59
+5,Action;Adventure;Simulation;Early Access,15606,500000,10.09
+5,Action;Casual;Simulation;Early Access,36,0,3.99
+5,Video Production,123,50000,0.8
+5,Action;Casual;Free to Play;Massively Multiplayer,23483,5450000,0.0
+5,Adventure;Free to Play;RPG;Strategy,2692,520000,0.0
+5,Violent;Adventure;Casual;Indie,430,20000,3.31
+5,Action;Adventure;Simulation;Strategy,14,0,4.11
+5,Indie;Massively Multiplayer;Strategy,938,20000,7.03
+5,Action;Massively Multiplayer;Simulation,26940,2000000,11.83
+5,Action;Racing;Early Access,112,0,5.37
+5,Action;Adventure;Indie;Sports,156,20000,3.73
+5,Nudity;Adventure;Casual;Indie,11718,570000,2.19
+5,Sexual Content;Adventure;Casual;Indie,431,50000,7.67
+5,Action;Adventure;Free to Play,10795,1550000,0.0
+5,Adventure;RPG;Simulation;Strategy,995,100000,5.79
+5,Adventure;RPG;Simulation,1358,90000,5.65
+5,Nudity;Adventure,126,0,15.35
+5,Adventure;Casual;RPG;Strategy,263,20000,5.21
+5,Racing;Simulation;Early Access,15972,520000,10.15
+5,Violent;Adventure;Casual,177,20000,8.67
+5,Action;Casual;Early Access,48,0,2.33
+5,Utilities;Video Production,410,120000,2.54
+5,Free to Play;Massively Multiplayer,300,290000,0.0
+5,Animation & Modeling;Design & Illustration;Utilities;Early Access,90,0,8.75
+5,Sexual Content;Nudity;Adventure;Indie,1091,70000,9.61
+4,Action;Adventure;Casual;Racing,208,20000,6.07
+4,Action;Free to Play;Indie;RPG,11273,750000,0.0
+4,Casual;Indie;RPG;Early Access,79,0,3.09
+4,Casual;RPG;Simulation;Strategy,352,50000,6.67
+4,Audio Production,82,0,26.44
+4,Action;Indie;Massively Multiplayer;Strategy,163,0,6.54
+4,Indie;Sports;Early Access,217,0,7.17
+4,Casual;Strategy;Early Access,65,0,0.85
+4,Adventure;Indie;Racing,548,70000,4.84
+4,Free to Play;Massively Multiplayer;Strategy;Early Access,303,90000,0.0
+4,Adventure;Simulation;Sports,15811,520000,14.14
+4,Design & Illustration;Early Access,457,20000,9.24
+4,Animation & Modeling;Utilities;Early Access,688,50000,3.72
+4,Action;Adventure;Sports,518,50000,10.54
+4,Adventure;Casual;Early Access,3076,300000,5.44
+4,Free to Play;Simulation;Sports,489,200000,0.0
+4,Free to Play;Massively Multiplayer;Simulation,3013,570000,0.0
+4,Adventure;Free to Play;RPG,87,20000,0.0
+4,Racing;Simulation;Sports;Early Access,1787,50000,12.27
+4,Action;Free to Play;Massively Multiplayer;Simulation,101966,14020000,0.0
+4,Action;Free to Play;Sports,2637,700000,0.0
+4,Action;Free to Play;Simulation,1164,400000,0.0
+4,Massively Multiplayer;Racing;Simulation;Sports,3801,120000,8.07
+4,Animation & Modeling;Utilities,57,0,27.24
+4,Free to Play;Simulation;Strategy,3783,920000,0.0
+4,Action;Free to Play;RPG,2474,700000,0.0
+4,Action;Indie;RPG;Simulation,6360,200000,9.87
+4,Gore;Action;Casual;Indie,283,50000,3.24
+4,Action;Free to Play;Massively Multiplayer;Strategy,11064,2070000,0.0
+4,Free to Play;Massively Multiplayer;Simulation;Strategy,2577,500000,0.0
+4,Action;Simulation;Strategy;Early Access,26,0,6.82
+4,Indie;Racing;Sports;Early Access,226,0,8.47
+4,Action;Casual;Strategy;Early Access,137,100000,1.8
+4,Nudity;Casual;Indie,452,0,3.26
+4,Gore;Adventure;Casual;Indie,149,100000,2.76
+4,Violent;RPG,4695,220000,22.44
+4,Adventure;Casual;Free to Play;Simulation,1854,520000,0.0
+4,Indie;Massively Multiplayer;RPG;Strategy,618,20000,10.04
+4,Free to Play;Indie;Early Access,96,0,0.0
+4,Action;Indie;Casual,658,150000,5.19
+3,Action;RPG;Indie,659,170000,6.16
+3,Sexual Content;Violent;Action,1817,100000,11.19
+3,Adventure;Casual;Free to Play;RPG,136,40000,0.0
+3,Violent;Action;Adventure;RPG,77,0,11.16
+3,Violent;Action;Simulation,239,0,8.02
+3,Action;Adventure;Massively Multiplayer;Simulation,40,0,13.99
+3,Sexual Content;Casual;Indie;Simulation,566,20000,7.12
+3,Animation & Modeling,114,0,57.33
+3,Casual;Free to Play;Strategy;Early Access,697,150000,0.0
+3,Design & Illustration;Education;Utilities,43,0,30.66
+3,Casual;Free to Play;Massively Multiplayer;Simulation,4547,800000,0.0
+3,Strategy;Indie,185,40000,6.59
+3,Casual;Free to Play;Massively Multiplayer;Strategy,5469,400000,0.0
+3,Casual;Massively Multiplayer;Simulation;Strategy,32,0,2.82
+3,Action;Casual;Free to Play;Strategy,1867,720000,0.0
+3,Action;Massively Multiplayer;Simulation;Early Access,1368,40000,12.99
+3,Action;Casual;Massively Multiplayer,143,0,3.0
+3,Sexual Content;Adventure;Casual,301,0,11.99
+3,Sexual Content;Nudity;Adventure,552,40000,17.82
+3,Gore;Indie,220,300000,3.59
+3,Adventure;Free to Play;Indie;Early Access,145,50000,0.0
+3,Nudity;Violent;Adventure;Indie,2758,200000,4.59
+3,Action;Sports;Early Access,853,20000,8.66
+3,Adventure;Racing,204,20000,11.66
+3,Casual;Racing;Simulation,3,0,10.89
+3,Sexual Content;Nudity;Adventure;Simulation,755,0,12.12
+3,Indie;Massively Multiplayer;Strategy;Early Access,40,0,12.66
+3,Casual;Simulation;Strategy;Early Access,227,0,10.86
+3,Free to Play;Indie;Simulation;Early Access,942,270000,6.66
+3,Action;Free to Play;Indie;Simulation,538,350000,0.0
+3,Action;Casual;RPG,1161,200000,4.59
+3,Action;Indie;Racing;Strategy,4029,300000,7.86
+3,Adventure;Indie;Massively Multiplayer,5112,700000,1.86
+3,Strategy;Simulation,560,170000,5.16
+3,Action;Free to Play;Strategy;Early Access,824,350000,0.0
+3,Free to Play;Indie;Racing;Simulation,94,40000,0.0
+3,Nudity;Violent;Gore;Action,258,50000,15.59
+3,Action;Massively Multiplayer;Racing,13565,400000,29.66
+3,Sexual Content;Nudity;Indie,6077,200000,8.19
+3,Free to Play;Simulation;Early Access,47,0,0.0
+3,Sexual Content;Nudity;Casual,142,100000,8.42
+3,Casual;Indie;Massively Multiplayer;Early Access,10,0,1.52
+3,Casual;Racing;Sports,64,0,8.66
+3,Action;Adventure;Massively Multiplayer;RPG,831,40000,7.46
+3,Action;Free to Play;Massively Multiplayer;Early Access,49877,3200000,0.0
+3,Casual;Free to Play;Sports,365,150000,0.0
+3,Violent;Action;Early Access,582,20000,16.92
+3,Gore;Action,23,0,11.66
+3,Action;Massively Multiplayer;RPG;Early Access,272,20000,2.03
+3,Design & Illustration;Photo Editing,562,0,34.99
+3,Design & Illustration;Web Publishing,5846,700000,55.66
+3,Action;Adventure;Casual;Massively Multiplayer,13858,700000,15.26
+2,Sexual Content;Casual,228,20000,1.64
+2,Casual;Free to Play;Indie;Sports,63,40000,0.0
+2,Free to Play;Racing;Simulation;Sports,6290,2500000,0.0
+2,Action;Strategy;Indie,67,20000,3.54
+2,Nudity;Action;Adventure,591,100000,5.49
+2,Violent;Adventure;Casual;Simulation,71,0,7.39
+2,Free to Play;RPG;Early Access,72,0,0.0
+2,Action;Adventure;Free to Play;RPG,252,20000,0.0
+2,Sexual Content;RPG,285,20000,7.89
+2,Casual;Free to Play;Simulation;Early Access,513,120000,0.0
+2,Free to Play;Indie;Massively Multiplayer;Early Access,34,20000,0.0
+2,Adventure;Casual;Massively Multiplayer;Simulation,271,20000,4.44
+2,Violent;Action;Casual;Simulation,3,0,4.89
+2,Adventure;Massively Multiplayer;RPG,35,0,5.15
+2,Racing;Simulation;Sports;Strategy,4493,220000,19.99
+2,Action;Adventure;Racing;RPG,274,50000,10.59
+2,Indie;Massively Multiplayer,23,100000,1.24
+2,Adventure;Casual;Racing,66,20000,4.25
+2,Violent;Action;RPG,96,50000,3.5
+2,Casual;RPG;Early Access,6,0,1.89
+2,Violent;Indie;Early Access,5,0,7.04
+2,Massively Multiplayer;RPG;Early Access,382,0,5.0
+2,Gore;Adventure,56,20000,11.89
+2,Indie;Massively Multiplayer;Simulation;Early Access,164,0,7.19
+2,Nudity;Indie,376,100000,5.59
+2,Casual;Indie;Racing;Early Access,33,0,8.14
+2,Free to Play;Indie;Racing,112,20000,0.0
+2,Free to Play;Indie;RPG;Simulation,3075,300000,0.0
+2,Violent;Gore;Casual;Indie,804,0,6.09
+2,Casual;RPG;Strategy,11,0,6.49
+2,Action;RPG;Simulation;Strategy,3456,300000,18.99
+2,Education;Software Training,121,20000,8.49
+2,Casual;Free to Play;Massively Multiplayer,903,300000,0.0
+2,Violent;RPG;Strategy,286,100000,8.59
+2,Casual;Free to Play;Early Access,39,20000,0.0
+2,RPG;Strategy;Early Access,373,20000,10.99
+2,Strategy;Indie;Casual,743,300000,5.99
+2,Sexual Content;Violent;Indie,77,0,5.49
+2,Free to Play;RPG;Strategy;Early Access,58,0,0.0
+2,Animation & Modeling;Video Production,18924,1500000,6.5
+2,Nudity;Violent;Adventure;Casual,195,0,8.49
+2,Nudity;Action;Casual;Indie,478,20000,8.09
+2,Action;Free to Play;Massively Multiplayer;Racing,12427,2050000,0.0
+2,Violent;Gore;Indie;Early Access,12,0,5.99
+2,Action;Free to Play;Simulation;Strategy,375,150000,0.0
+2,Action;Simulation;Sports;Strategy,63,20000,7.49
+2,Casual;Simulation;Sports;Early Access,21,0,5.15
+2,RPG;Simulation;Strategy;Early Access,1307,50000,17.99
+2,Adventure;RPG;Early Access,27,0,9.74
+2,Nudity;Indie;RPG,159,20000,6.99
+2,Action;Massively Multiplayer;RPG,18,0,6.09
+2,Utilities;Video Production;Early Access,250,20000,2.84
+2,Violent,10,0,5.5
+2,Free to Play;Design & Illustration,146,100000,0.0
+2,Animation & Modeling;Utilities;Video Production,10,0,1.45
+2,Violent;Action;Adventure;Strategy,2221,100000,22.99
+2,Sexual Content;Indie,57,20000,5.39
+2,Violent;Gore,37,0,2.5
+2,Nudity;Casual;Indie;Strategy,17,0,2.39
+2,Sexual Content;Nudity;Adventure;RPG,106,0,2.55
+2,Action;Adventure;Free to Play;Simulation,20,0,0.0
+2,Adventure;RPG;Strategy;Early Access,78,0,4.94
+2,Free to Play;Massively Multiplayer;Early Access,79,20000,0.0
+2,Violent;Action;Racing,169,0,12.39
+2,Free to Play;Indie;Massively Multiplayer,11704,2000000,0.0
+2,Gore;Casual;Indie;Simulation,33,0,2.39
+2,Violent;Action;Indie;Strategy,149,50000,3.99
+2,Action;Adventure;Indie;Massively Multiplayer,27,0,6.14
+2,Adventure;Indie;Sports,128,0,3.99
+2,Indie;Massively Multiplayer;Simulation,1160,20000,22.74
+2,Nudity;RPG,560,20000,20.84
+2,Violent;Casual;Indie;Strategy,23,0,5.49
+2,Gore;Adventure;Indie;RPG,166,0,2.39
+2,Sexual Content;Free to Play;Indie;Simulation,2658,220000,0.0
+2,Casual;Free to Play;Simulation;Strategy,24,20000,0.0
+2,Casual;Free to Play;Indie;Racing,78,70000,0.0
+2,Action;Indie;Massively Multiplayer;RPG,16,0,6.09
+2,Sexual Content;Action;Casual;Indie,2007,200000,5.59
+2,Action;Indie;RPG;Sports,1231,120000,8.99
+2,Adventure;Indie;Racing;Early Access,14,0,6.59
+2,Casual;Racing;Simulation;Sports,12,0,8.24
+2,Sexual Content;Action,114,0,9.89
+2,Free to Play;Indie;Racing;Sports,609,250000,0.0
+2,Violent;Action;Adventure;Early Access,1,0,1.39
+2,Indie;Simulation;Audio Production;Early Access,122,0,8.34
+2,Massively Multiplayer;RPG,43527,2000000,12.49
+2,Adventure;Free to Play;Indie;Simulation,400,50000,0.0
+2,Free to Play;Indie;Sports;Strategy,975,400000,0.0
+2,Animation & Modeling;Design & Illustration;Web Publishing,770,40000,17.39
+2,Casual;Indie;Massively Multiplayer;Racing,26,0,4.39
+2,Gore;Action;Indie;Strategy,38,0,4.54
+2,Gore;Action;Indie;RPG,122,0,15.0
+2,Adventure;Sports,141,0,6.29
+2,Action;Adventure;Racing;Early Access,17,0,4.99
+2,Animation & Modeling;Design & Illustration,42,0,21.39
+2,Animation & Modeling;Design & Illustration;Game Development,89,0,110.49
+2,Violent;Gore;Adventure;RPG,519,40000,12.74
+2,Action;Adventure;Massively Multiplayer;Early Access,474,20000,3.44
+2,Action;Adventure;Free to Play;Massively Multiplayer,111695,10200000,0.0
+1,Free to Play;Massively Multiplayer;Sports,46,20000,0.0
+1,Casual;Indie;Simulation;Audio Production,9,0,0.79
+1,Sexual Content;Free to Play;Indie;RPG,54,20000,0.0
+1,Design & Illustration;Utilities;Video Production,3,0,2.79
+1,Indie;Animation & Modeling,5,0,23.79
+1,Action;Indie;Massively Multiplayer;Simulation,63,20000,0.0
+1,Gore;Action;Free to Play;Indie,290,100000,0.0
+1,Action;Adventure;RPG;Simulation,4,0,0.79
+1,Indie;Simulation;Web Publishing,35,20000,0.0
+1,Nudity;Action;Indie,131,0,6.99
+1,Action;Sports;Strategy,7,0,9.99
+1,Indie;Audio Production,296,50000,0.0
+1,Casual;Animation & Modeling;Video Production,9,0,0.79
+1,Nudity;Free to Play;Simulation,32,0,0.0
+1,Nudity;Casual;Indie;Sports,1,0,2.09
+1,Nudity;Adventure;Indie;Early Access,5,0,0.79
+1,Action;Racing;RPG,996,50000,5.59
+1,Adventure;Massively Multiplayer;Strategy;Early Access,2,0,0.0
+1,Violent;Indie;RPG,36,0,0.0
+1,Action;Casual;RPG;Sports,0,0,13.99
+1,Design & Illustration;Education;Utilities;Early Access,2,0,11.39
+1,Sexual Content;Nudity,2,0,2.09
+1,Adventure;Free to Play;Simulation;Strategy,21,0,0.0
+1,Adventure;Indie;Simulation;Sports,4,0,3.99
+1,Action;Racing;Sports;Early Access,666,0,19.49
+1,Adventure;Massively Multiplayer;RPG;Strategy,264,50000,0.0
+1,Indie;Casual;Sports,6,0,13.99
+1,Strategy;RPG,166,100000,9.99
+1,Nudity;Action,59,0,22.99
+1,Violent;Action;Indie;RPG,0,0,7.19
+1,Violent;Adventure;RPG,20,0,6.99
+1,Adventure;Free to Play;Sports,9,0,0.0
+1,Indie;Racing;RPG;Simulation,55,20000,1.99
+1,Strategy;Indie;Casual;Simulation,27,0,6.99
+1,Free to Play;Massively Multiplayer;Racing,149,50000,0.0
+1,Action;Adventure;Free to Play;Early Access,7,0,11.39
+1,Action;Free to Play;Indie;Racing,16,20000,0.0
+1,Casual;Free to Play;Massively Multiplayer;RPG,3629,1000000,0.0
+1,Free to Play;Massively Multiplayer;Simulation;Sports,10585,2000000,0.0
+1,Free to Play;Sports;Strategy,43,20000,0.0
+1,Sexual Content;Violent;Adventure;Casual,1,0,15.49
+1,Animation & Modeling;Design & Illustration;Video Production,30,0,154.99
+1,Gore;Action;Early Access,2,0,3.99
+1,Free to Play;Indie;Racing;Strategy,155,50000,0.0
+1,Free to Play;Sports,367,200000,0.0
+1,Sexual Content;Adventure,0,0,23.79
+1,Design & Illustration;Utilities;Web Publishing,249,20000,6.99
+1,Animation & Modeling;Audio Production;Utilities,12,0,2.09
+1,Violent;Action;Simulation;Early Access,74,0,3.99
+1,Adventure;Indie;Massively Multiplayer;RPG,247,0,0.0
+1,Nudity;Casual;Free to Play,164,20000,0.0
+1,Adventure;Casual;Sports,0,0,3.99
+1,Nudity;Adventure;Casual,2,0,6.99
+1,Free to Play;RPG;Simulation,21481,2000000,0.0
+1,Casual;Indie;Utilities,6,0,10.99
+1,Casual;Free to Play;Massively Multiplayer;Education,17,50000,0.0
+1,Violent;Free to Play;Indie;Strategy,424,50000,0.0
+1,Sports;Strategy;Early Access,12,0,7.99
+1,Animation & Modeling;Design & Illustration;Photo Editing;Utilities,162,50000,2.89
+1,Adventure;Free to Play;Massively Multiplayer,636,200000,0.0
+1,Sexual Content;Nudity;RPG,33,0,19.49
+1,Gore;Adventure;Indie;Racing,1,0,0.79
+1,Casual;Racing;Early Access,4,0,0.79
+1,Action;Indie;Sports;Strategy,4,0,1.59
+1,Sexual Content;Violent;Gore;Casual,94,20000,0.79
+1,Casual;Indie;Simulation;Education,5,0,7.19
+1,Gore;Indie;Early Access,152,20000,3.99
+1,Casual;Massively Multiplayer;Simulation,0,0,32.99
+1,Animation & Modeling;Early Access,5,0,7.19
+1,Gore;Indie;Simulation,3645,500000,1.79
+1,Casual;Indie;Massively Multiplayer,9,0,0.79
+1,Education;Software Training;Utilities;Video Production,36,0,14.99
+1,Action;Strategy;Indie;Sports,720,200000,3.99
+1,Violent;Action;Casual;Early Access,2,0,6.99
+1,Gore;Indie;Simulation;Strategy,648,50000,9.99
+1,Casual;Free to Play;Sports;Strategy,72,50000,0.0
+1,Massively Multiplayer;Strategy,12,0,7.19
+1,Gore,1072,100000,14.99
+1,Indie;Massively Multiplayer;Simulation;Strategy,217,0,14.99
+1,Action;Adventure;Casual;Sports,6,0,7.19
+1,Adventure;Casual;Indie;Massively Multiplayer,3,0,0.79
+1,Gore;Adventure;Simulation,23,0,2.09
+1,Simulation;Education;Software Training,11,0,0.0
+1,Action;RPG;Strategy;Early Access,14,0,6.99
+1,Adventure;Casual;Free to Play;Strategy,53,20000,0.0
+1,Violent;Adventure;Indie;Strategy,19,0,7.19
+1,Sexual Content;Nudity;Action,718,20000,22.99
+1,Violent;Simulation;Sports,793,50000,39.99
+1,Adventure;Strategy;Early Access,20,0,0.0
+1,Sexual Content;Action;Indie,1,0,1.69
+1,Sexual Content;Violent;Adventure;Indie,275,50000,4.99
+1,Violent;Action;Free to Play;Indie,8,0,0.0
+1,Violent;Casual;Indie,14,0,8.29
+1,Massively Multiplayer;Simulation;Sports;Early Access,117,0,0.79
+1,Free to Play;Indie;RPG;Early Access,2,0,0.0
+1,Action;Massively Multiplayer;Strategy,6,0,15.49
+1,Education;Software Training;Utilities;Web Publishing,184,0,0.0
+1,Violent;Adventure;Indie;Early Access,2,0,7.19
+1,Sexual Content;Violent;Gore;Indie,6,0,1.69
+1,Gore;Simulation;Strategy,26,0,10.29
+1,Design & Illustration;Utilities;Game Development,37,0,46.49
+1,Animation & Modeling;Design & Illustration;Education,31,0,5.19
+1,Violent;Action;Casual;Racing,0,0,2.79
+1,Casual;Racing;Simulation;Early Access,47,20000,0.0
+1,Sexual Content;Nudity;Casual;Simulation,19,0,9.29
+1,Simulation;Education,6,0,7.19
+1,Massively Multiplayer;Early Access,62,0,5.34
+1,Violent;Gore;Casual,1,0,0.79
+1,Action;Indie;Massively Multiplayer;Racing,27,0,0.79
+1,Violent;Gore;Strategy,3,0,2.79
+1,Violent;Action;Massively Multiplayer,865,200000,0.0
+1,Action;Racing;Strategy,20,0,1.59
+1,RPG;Indie;Casual,111,100000,14.99
+1,Adventure;Free to Play;Indie;Massively Multiplayer,1043,200000,0.0
+1,Adventure;Indie;Casual,402,200000,4.39
+1,Sexual Content;Indie;Simulation,116,0,14.69
+1,Casual;Free to Play;RPG;Simulation,155,50000,0.0
+1,Indie;Racing;Simulation;Strategy,34,0,1.69
+1,Adventure;Massively Multiplayer,292,200000,0.79
+1,Animation & Modeling;Education;Utilities;Web Publishing,616,100000,69.99
+1,Violent;Gore;Action;Free to Play,96,20000,0.0
+1,Sexual Content;Nudity;Indie;Strategy,23,0,14.99
+1,Photo Editing;Utilities;Video Production,17,20000,6.99
+1,Massively Multiplayer;Simulation;Early Access,364,50000,0.0
+1,Audio Production;Early Access,23,0,4.79
+1,Indie;Racing;Strategy,5,0,10.99
+1,Massively Multiplayer;Racing,742,50000,33.99
+1,Free to Play;Indie;Simulation;Sports,7235,1000000,0.0
+1,Casual;Free to Play;Simulation;Sports,22,0,0.0
+1,Utilities;Game Development;Early Access,19,0,3.99
+1,Action;Casual;Racing;Simulation,2,0,0.79
+1,Violent;Gore;Indie;Strategy,30,0,10.99
+1,Sexual Content;Adventure;Indie;Simulation,5,0,1.69
+1,Sexual Content;Free to Play;Indie,96,20000,0.0
+1,Violent;Gore;Indie;Sports,4,0,2.89
+1,Adventure;Casual;Free to Play;Early Access,21,0,0.0
+1,Sexual Content;Nudity;Action;Indie,27,0,6.19
+1,Free to Play;Indie;Sports;Early Access,368,100000,0.0
+1,Violent;Adventure;Indie;RPG,6,0,3.99
+1,Gore;Adventure;Indie;Simulation,2,0,1.69
+1,Nudity;Casual;Indie;Simulation,72,200000,0.79
+1,Nudity;Violent;Adventure,8,0,4.79
+1,Nudity;Action;Casual,18,0,7.99
+1,Gore;Casual;Indie;Strategy,35,20000,1.99
+1,Sexual Content;Violent;RPG,0,0,3.99
+1,Design & Illustration;Utilities;Web Publishing;Early Access,45,0,0.0
+1,Free to Play;Racing;Simulation;Early Access,104,50000,0.0
+1,Violent;Action;Adventure;Simulation,4,0,1.59
+1,Sexual Content;Gore;Adventure;Indie,3,0,14.99
+1,Nudity;Free to Play;Indie;Simulation,117,20000,0.0
+1,Sexual Content;Violent;Gore;Simulation,72,0,0.0
+1,Action;RPG;Sports;Early Access,8,0,11.39
+1,Animation & Modeling;Software Training;Utilities;Early Access,121,0,2.09
+1,Violent;Strategy,13,0,15.49
+1,Nudity;Casual;Simulation,9,0,2.89
+1,RPG;Simulation;Sports,4,0,11.39
+1,Casual;Indie;Audio Production;Early Access,42,0,10.99
+1,Sexual Content;Adventure;Free to Play;Indie,322,50000,0.0
+1,Violent;Gore;Simulation;Early Access,9,0,0.79
+1,Indie;RPG;Sports;Strategy,65,0,15.49
+1,Racing;Simulation;Strategy;Early Access,9,0,3.99
+1,Adventure;Casual;Free to Play;Sports,18,0,0.0
+1,Violent;Action;Indie;Massively Multiplayer,3,0,0.0
+1,Nudity;Action;Adventure;Indie,76,0,2.09
+1,Free to Play;Indie;Sports,517,100000,0.0
+1,Violent;Action;Indie;Racing,33,0,6.99
+1,Massively Multiplayer;RPG;Strategy,25,0,0.0
+1,Utilities;Web Publishing,329,50000,6.99
+1,Action;Massively Multiplayer;Simulation;Strategy,17201,500000,18.99
+1,Sexual Content;Adventure;Indie,3,0,3.99
+1,Nudity;Simulation,110,20000,7.19
+1,Action;Free to Play;Simulation;Sports,13,0,0.0
+1,Action;Casual;Racing;Sports,1,0,3.99
+1,Action;Free to Play;Sports;Early Access,6,0,0.0
+1,Adventure;Racing;Simulation;Sports,251,0,39.99
+1,Simulation;Utilities,184,0,9.99
+1,Sexual Content;Indie;RPG,42,0,10.29
+1,Indie;Simulation;Education;Early Access,10,0,3.99
+1,Casual;Strategy;Indie,4,0,5.99
+1,Indie;Audio Production;Utilities,1,0,4.79
+1,Action;Strategy;Casual,268,100000,6.99
+1,Indie;Sports;Strategy;Early Access,22,0,7.99
+1,Sexual Content;Violent;Casual;Indie,2,0,6.19
+1,Adventure;Racing;Sports,5,0,7.19
+1,Utilities;Video Production;Web Publishing;Early Access,113,50000,0.0
+1,Violent;Adventure;Free to Play;Indie,25,0,0.0
+1,Action;Casual;RPG;Strategy,3,0,1.69
+1,Massively Multiplayer;RPG;Utilities;Early Access,6,0,0.0
+1,Free to Play;Indie;Massively Multiplayer;Simulation,666,200000,0.0
+1,Violent;Action;Strategy;Early Access,4,0,5.99
+1,Sports;Casual,244,50000,6.99
+1,Casual;Indie;Racing;Strategy,1,0,9.29
+1,RPG;Sports;Strategy,20,0,6.99
+1,Sexual Content;Strategy,197,0,14.99
+1,Sexual Content;Adventure;RPG;Strategy,173,0,19.49
+1,Animation & Modeling;Design & Illustration;Game Development;Early Access,8,0,23.79
+1,Indie;Massively Multiplayer;RPG;Simulation,437,20000,14.99
+1,Adventure;Casual;Strategy;Early Access,336,20000,14.49
+1,Sexual Content;Nudity;Indie;Simulation,502,100000,6.99
+1,Casual;Indie;Education,3,0,39.99
+1,Audio Production;Utilities;Early Access,66,0,22.99
+1,Nudity;Action;Indie;Early Access,9,20000,11.39
+1,Free to Play;Massively Multiplayer;RPG;Early Access,1706,1000000,0.0
+1,Violent;Adventure;Indie;Simulation,724,50000,22.99
+1,Education;Early Access,24,0,6.99
+1,Sexual Content;Adventure;Simulation,17,0,14.99
+1,Action;Massively Multiplayer;RPG;Strategy,5,0,6.99
+1,Sexual Content;Violent;Free to Play,43,20000,0.0
+1,Violent;Gore;RPG;Early Access,2,0,1.99
+1,Action;Massively Multiplayer;Racing;Simulation,75,20000,1.69
+1,Sexual Content;Adventure;Indie;RPG,2,0,1.69
+1,Free to Play;Early Access,244,50000,0.0
+1,Action;Casual;Sports;Strategy,2,0,3.99
+1,Casual;Animation & Modeling;Design & Illustration,9,20000,0.0
+1,Sexual Content;Simulation,162,100000,3.99
+1,Casual;Free to Play;Massively Multiplayer;Early Access,98,20000,0.0
+1,Nudity;Violent;Strategy,9,0,19.99
+1,Indie;Racing;RPG;Sports,298,0,5.79
+1,Indie;Massively Multiplayer;Racing;Simulation,42,0,3.99
+1,Violent;Simulation;Early Access,1,0,4.79
+1,Violent;Indie;Strategy;Early Access,3,0,6.19
+1,Action;RPG;Simulation;Early Access,1,0,11.39
+1,Action;Free to Play;RPG;Strategy,3677,1000000,0.0
+1,Action;Massively Multiplayer;Strategy;Early Access,30,0,6.99
+1,Violent;Gore;Indie;RPG,330,100000,6.99
+1,Software Training;Utilities,138,20000,0.0
+1,Nudity;Casual,34,0,6.99
+1,Gore;Adventure;Indie;Early Access,4,0,5.79
+1,Racing;RPG;Simulation;Early Access,67,0,14.99
+1,Adventure;Casual;Simulation;Early Access,133,0,5.59
+1,Sexual Content;Action;Strategy,3,0,6.19
+1,Racing;Sports;Early Access,3,0,9.99
+1,Action;Adventure;Strategy;Early Access,2,0,3.99
+1,Violent;Sports,127,0,8.99
+1,Adventure;Casual;RPG;Early Access,15,0,3.99
+1,Action;Free to Play;Racing;Sports,264,100000,0.0
+1,Animation & Modeling;Design & Illustration;Photo Editing,119,20000,6.99
+1,Nudity;Gore;Action;Indie,5,0,3.99
+1,Web Publishing,326,100000,18.99
+1,Casual;Massively Multiplayer;Early Access,8,0,0.0
+1,Massively Multiplayer;Racing;Strategy,34,20000,0.0
+1,Action;Sports;Strategy;Early Access,2,0,10.99
+1,Education;Software Training;Utilities,33,50000,0.0
+1,Violent;Action;Simulation;Sports,1,0,7.19
+1,Casual;RPG;Strategy;Early Access,6,0,3.99
+1,Animation & Modeling;Design & Illustration;Utilities;Video Production,170,0,10.99
+1,RPG;Casual;Adventure,57,20000,6.99
+1,Gore;Action;Adventure;Strategy,84,20000,5.19
+1,Sexual Content;Casual;Free to Play;Indie,56,20000,0.0
+1,Violent;Simulation,20,0,3.99
+1,Simulation;Sports;Strategy;Early Access,3,0,7.19
+1,Adventure;Casual;Simulation;Design & Illustration,5,0,0.0
+1,Violent;Action;Sports,10,0,3.99
+1,Strategy;Action;Indie,10,0,4.79
+1,Nudity;Violent;Indie,16,0,3.99
+1,Nudity;Violent;RPG,3054,500000,14.99
+1,Violent;Action;Simulation;Strategy,40,0,3.49
